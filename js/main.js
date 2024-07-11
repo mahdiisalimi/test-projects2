@@ -1,5 +1,5 @@
-//alert("hello from 1899");
-console.log("hello agiain");
+alert("hello");
+console.log("hello");
 document.getElementById('content').innerHTML="Welcome";
 document.write("This is text from doc");
 
